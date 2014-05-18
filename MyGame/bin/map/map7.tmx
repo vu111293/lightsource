@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><map height="9" orientation="orthogonal" tileheight="52" tilewidth="52" version="1.0" width="17"><properties><property name="blended tiles" value=""/></properties>
+ <tileset firstgid="1" name="tiles" tileheight="52" tilewidth="52">
+  <image height="64" source="tiles.png" width="512"/>
+  <tile id="1">
+   <properties>
+    <property name="noplace" value="2"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="noplace" value="3"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="noplace" value="1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="noplace" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer height="9" name="bk" width="17">
+  <data compression="zlib" encoding="base64">
+   eJxjZGBgYBzFo5iGGAC6eACa
+  </data>
+ </layer>
+ <layer height="9" name="noplace" width="17">
+  <data compression="zlib" encoding="base64">
+   eJxjYGBgYCURIwNmBtIBuhm41OCzH5sZLETYw4THDBY8ZhDrDnxm4ALYzMCmhpR4oRYgNW1gwwB01wFF
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,11 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	nextlevel: { down: acceptBtn }
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	box: { drawable: box },
+	life: { drawable: life },
+	coin: { drawable: coin },
+	popupQuit: { drawable: popupQuit }
+}
+}

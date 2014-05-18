@@ -1,0 +1,61 @@
+
+weaponpanel.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+border
+  rotate: false
+  xy: 1, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gunBtn
+  rotate: false
+  xy: 67, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lazeBtn
+  rotate: false
+  xy: 133, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+prBtn
+  rotate: false
+  xy: 199, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sellBtn
+  rotate: false
+  xy: 265, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+upgradeBtn
+  rotate: false
+  xy: 331, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+waveBtn
+  rotate: false
+  xy: 397, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 1, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

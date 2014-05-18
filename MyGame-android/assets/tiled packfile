@@ -1,0 +1,26 @@
+
+ti.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiled
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+tiled
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+tiled
+  rotate: false
+  xy: 70, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1

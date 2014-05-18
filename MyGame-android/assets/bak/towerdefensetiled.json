@@ -1,0 +1,56 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	
+	play: { down: playPressedBtn, up: playBtn },	
+	quit:{ down:quitPressedBtn, up: quitBtn},
+	musicOn: {down: musicBtn,up:musicBtn},
+	musicOff: {down: noMusicBtn,up:noMusicBtn},
+	resume: {down:resume,up:resume},
+	restart: {down:restart, up:restart},
+	levelchoice:{down:levelchoice, up:levelchoice},
+	menu: {down:menu,up:menu},
+	backBtn: {down:backBtn, up:backBtn},
+	nextBtn: {down:nextBtn, up:nextBtn},
+	replayBtn : {down: replayBtn, up: replayBtn},
+	listLevelBtn : {down: listLevelBtn, up: listLevelBtn},
+	
+	
+	level1: {down: level1, up: level1},
+	level2: {down: level2, up: level2},
+	level3: {down: level3, up: level3},
+	level4: {down: level4, up: level4},
+	level5: {down: level5, up: level5},
+	level6: {down: level6, up: level6},
+	level7: {down: level7, up: level7},
+	level8: {down: level8, up: level8},
+	level9: {down: level9, up: level9},
+	level10: {down: level10, up: level10},
+	
+	level2lock: {down: level2lock, up: level2lock},
+	level3lock: {down: level3lock, up: level3lock},
+	level4lock: {down: level4lock, up: level4lock},
+	level5lock: {down: level5lock, up: level5lock},
+	level6lock: {down: level6lock, up: level6lock},
+	level7lock: {down: level7lock, up: level7lock},
+	level8lock: {down: level8lock, up: level8lock},
+	level9lock: {down: level9lock, up: level9lock},
+	level10lock: {down: level10lock, up: level10lock},
+	
+	nextBtn: { down:acceptBtn, up:acceptBtn},
+	
+	
+},
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	background: { drawable: background },
+	level:{drawable: listLevel},
+	map:{drawable:map},
+	pause:{drawable:pause},
+	bkgGame: {drawable:bkgGame},
+	bkglevel : {drawable: popupQuit},
+	nextwave: {drawable: nextwave},
+	popup: {drawable: popup},
+	box: { drawable: box },
+	life: { drawable: life },
+	coin: { drawable: coin }	
+}
+}

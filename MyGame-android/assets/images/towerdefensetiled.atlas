@@ -1,0 +1,393 @@
+
+towerdefensetiled.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+listLevel
+  rotate: false
+  xy: 1, 513
+  size: 800, 506
+  orig: 800, 506
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 1, 31
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+cash
+  rotate: false
+  xy: 1, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 31, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+life
+  rotate: false
+  xy: 61, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 803, 949
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+musicBtn
+  rotate: false
+  xy: 803, 827
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+level1
+  rotate: false
+  xy: 925, 848
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level10
+  rotate: false
+  xy: 925, 747
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+noMusicBtn
+  rotate: false
+  xy: 803, 705
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+level10lock
+  rotate: false
+  xy: 925, 646
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+playBtn
+  rotate: false
+  xy: 803, 583
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+level1clock
+  rotate: false
+  xy: 925, 545
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+playPressedBtn
+  rotate: false
+  xy: 803, 461
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+level2
+  rotate: false
+  xy: 925, 444
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level2lock
+  rotate: false
+  xy: 803, 360
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level3
+  rotate: false
+  xy: 890, 343
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+clock
+  rotate: false
+  xy: 977, 399
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+level3lock
+  rotate: false
+  xy: 803, 259
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level4
+  rotate: false
+  xy: 890, 242
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level4lock
+  rotate: false
+  xy: 803, 158
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level5
+  rotate: false
+  xy: 890, 141
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level5lock
+  rotate: false
+  xy: 803, 57
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 803, 9
+  size: 130, 46
+  orig: 130, 46
+  offset: 0, 0
+  index: -1
+level6
+  rotate: false
+  xy: 935, 40
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+
+towerdefensetiled2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bkgGame
+  rotate: false
+  xy: 1, 483
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+map
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+level6lock
+  rotate: false
+  xy: 803, 864
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level7
+  rotate: false
+  xy: 803, 763
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level7lock
+  rotate: false
+  xy: 890, 864
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level8
+  rotate: false
+  xy: 803, 662
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level8lock
+  rotate: false
+  xy: 890, 763
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level9
+  rotate: false
+  xy: 803, 561
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+level9lock
+  rotate: false
+  xy: 890, 662
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+quitBtn
+  rotate: false
+  xy: 803, 487
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+quitPressedBtn
+  rotate: false
+  xy: 890, 588
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+acceptBtn
+  rotate: false
+  xy: 803, 414
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+backBtn
+  rotate: false
+  xy: 803, 341
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+listLevelBtn
+  rotate: false
+  xy: 803, 268
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+nextBtn
+  rotate: false
+  xy: 803, 195
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+playPopupBtn
+  rotate: false
+  xy: 803, 122
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+replayBtn
+  rotate: false
+  xy: 803, 49
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+
+towerdefensetiled3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+complete
+  rotate: false
+  xy: 1, 602
+  size: 497, 402
+  orig: 497, 402
+  offset: 0, 0
+  index: -1
+log
+  rotate: false
+  xy: 1, 435
+  size: 432, 165
+  orig: 432, 165
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 500, 824
+  size: 397, 180
+  orig: 397, 180
+  offset: 0, 0
+  index: -1
+pausePopup
+  rotate: false
+  xy: 1, 253
+  size: 397, 180
+  orig: 397, 180
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1, 1
+  size: 319, 250
+  orig: 319, 250
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 500, 642
+  size: 370, 180
+  orig: 370, 180
+  offset: 0, 0
+  index: -1
+popupQuit
+  rotate: false
+  xy: 500, 460
+  size: 370, 180
+  orig: 370, 180
+  offset: 0, 0
+  index: -1
+nextwave
+  rotate: false
+  xy: 435, 308
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+levelchoice
+  rotate: false
+  xy: 400, 246
+  size: 285, 60
+  orig: 285, 60
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 322, 184
+  size: 285, 60
+  orig: 285, 60
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 322, 122
+  size: 285, 60
+  orig: 285, 60
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 322, 60
+  size: 285, 60
+  orig: 285, 60
+  offset: 0, 0
+  index: -1
